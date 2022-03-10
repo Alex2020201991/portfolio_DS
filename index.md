@@ -12,7 +12,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** The task of this project is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
 
-**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos.[**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb).
+**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos. Got [**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb).
 
 - Used Linear regression and XGBRegressor to predict the like to view_count ratio
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -57,7 +57,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[Customer Personality Analysis](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
+[World happiness report Analysis](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
 
 <img src="images/happy.jpg?raw=true"/>
 
@@ -65,7 +65,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** The taks of this project to visualize how each aspect affects the overall idea of happiness and predict raiting Score.
 
-**Quantifiable result:** We could use regression and classification which helps us to predict the Score.[**79%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb).
+**Quantifiable result:** We could use regression and classification which helps us to predict the Score. Got [**79%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb).
 
 - Used Random ForestXGBRegressor and Linear regression to predict the Score of happiness
 - The data had quite a few categorical variables which were encoded for use in the model
