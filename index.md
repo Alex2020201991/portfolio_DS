@@ -78,7 +78,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 [Amazon Fine Food Analysis Using NLP](https://github.com/alesandrsokirka/amazon_nlp/blob/main/amazon.ipynb)
 
-<img src="images/amazon.jpg?raw=true"/>
+<img src="images/amazon.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, TfidVectorizer 
 
