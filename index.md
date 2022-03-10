@@ -121,7 +121,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** Our goal is to predict whether the employees leave the company or not.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Rusult [**76%** accuracy (https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
+**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Rusult [**76%** accuracy](https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
 
 - LabelEncoder to handle categorical variables,
 - Quantile to normalize data by divide dataset into groups,
