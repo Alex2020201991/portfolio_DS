@@ -12,7 +12,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** The task of this project is to predict the like to view count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
 
-**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos. Rusult [**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
+**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos. Result [**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
 
 - Used Linear regression and XGBRegressor to predict the like to view_count ratio
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -65,7 +65,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** The taks of this project to visualize how each aspect affects the overall idea of happiness and predict raiting Score.
 
-**Quantifiable result:** We could use regression and classification which helps us to predict the Score. Rusult [**79%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
+**Quantifiable result:** We could use regression and classification which helps us to predict the Score. Result [**79%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
 
 - Used Random ForestXGBRegressor and Linear regression to predict the Score of happiness
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -103,7 +103,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Rusult [**79%** accuracy](https://github.com/alesandrsokirka/Logistic_Regression_project_bank/blob/main/logistic__bank_portug.ipynb)
+**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Result [**79%** accuracy](https://github.com/alesandrsokirka/Logistic_Regression_project_bank/blob/main/logistic__bank_portug.ipynb)
 
 - In this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
@@ -120,7 +120,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** Our goal is to predict whether the employees leave the company or not.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Rusult [**76%** accuracy](https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
+**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Result [**76%** accuracy](https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
 
 - LabelEncoder to handle categorical variables,
 - Quantile to normalize data by divide dataset into groups,
@@ -140,7 +140,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbor points.
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal. Rusult [**82%** accuracy](https://github.com/alesandrsokirka/orthopedic_project_KNN_NB/blob/main/project__.ipynb) 
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal. Result [**82%** accuracy](https://github.com/alesandrsokirka/orthopedic_project_KNN_NB/blob/main/project__.ipynb) 
 
 - Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
@@ -158,7 +158,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** In this project we are going to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
 
-**Quantifiable result:** We could use regression, which helps us to see factors and predict suicide rate . Rusult [**94%** accuracy](https://github.com/alesandrsokirka/suicide_rate_Kaggle/blob/main/Suicide_Rates.ipynb) 
+**Quantifiable result:** We could use regression, which helps us to see factors and predict suicide rate . Result [**94%** accuracy](https://github.com/alesandrsokirka/suicide_rate_Kaggle/blob/main/Suicide_Rates.ipynb) 
 
 - Data visualization to see correlation factors 
 - Machine learning: Linear regression Random forest, XGBooster.
