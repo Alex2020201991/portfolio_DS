@@ -6,7 +6,8 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 element {
   font-size: 75;
-**Click to see project** [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb) }
+  }
+**Click to see project** [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb) 
 
 
 <img src="images/bike.jpg?raw=true"/>
@@ -15,7 +16,7 @@ element {
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**76%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**76%** accuracy](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb).
 
 - Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -43,17 +44,17 @@ element {
 
 ***
 
-[Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
+[Customer Personality Analysis](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
 
-<img src="images/customer.jpg?raw=true"/>
+<img src="images/youtube.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, Matplotlib, Linear regression, XGBRegressor 
 
-**Project Objective:** Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+**Project Objective:** The task of this project is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
 
-**Quantifiable result:** We could use clustering, which helps in understanding the natural grouping in a dataset.(https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb).
+**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos.[**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb).
 
-- Initiating PCA to reduce dimentions aka features
-- Elbow Method to determine the number of clusters to be formed
-- Initiating the Agglomerative Clustering model
-- Data Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
+- Used Linear regression and XGBRegressor to predict the like to view_count ratio
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Data Source: https://www.kaggle.com/c/kaggle-pog-series-s01e01
