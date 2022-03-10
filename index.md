@@ -150,7 +150,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 ***
 
 
-**Click here to see project** [Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/alesandrsokirka/suicide_rate_Kaggle/blob/main/Suicide_Rates.ipynb)
+**Click here to see project** [Suicide Rates](https://github.com/alesandrsokirka/suicide_rate_Kaggle/blob/main/Suicide_Rates.ipynb)
 
 <img src="images/suicide.jpg?raw=true"/>
 
