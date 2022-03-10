@@ -6,8 +6,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 [Examining the effect of environmental factors and weather on demand of Bike rentals (https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb)
 
-<img src="https://github.com/alesandrsokirka/portfolio_DS/blob/master/images/bike.jpg)?raw=true"/>
-
+<img src="images/bike.jpg?raw=true"/>
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
