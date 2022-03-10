@@ -10,7 +10,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Skills used:** Python, Matplotlib, Linear regression, XGBRegressor 
 
-**Project Objective:** The task of this project is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
+**Project Objective:** The task of this project is to predict the like to view count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
 
 **Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos. Rusult [**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
 
