@@ -126,5 +126,23 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 - LabelEncoder to handle categorical variables,
 - Quantile to normalize data by divide dataset into groups,
 - NearMiss to handle imbalanced data,
-- Machine learning part (Data validation, Random Forest classification algorithm, Confusion matrix..
+- Machine learning part (Data validation, Random Forest classification algorithm, Confusion matrix.
 - Data Source: https://www.kaggle.com/pavan9065/predicting-employee-attrition
+
+
+***
+
+
+**Click here to see project** [Identifying Symptoms of Orthopedic Patients as Normal or Abnormal (https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
+
+<img src="images/orthopedic.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, KNN, NB
+
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbor points.
+
+**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal. Got [**82%** accuracy](https://github.com/alesandrsokirka/orthopedic_project_KNN_NB/blob/main/project__.ipynb) 
+
+- Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
+- Compared predictive performance by fitting a Naive Bayes model to the data
+- Selected best model based on train and test performance
