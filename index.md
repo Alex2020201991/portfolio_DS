@@ -4,7 +4,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-**Click here to see project** [Customer Personality Analysis](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
+**Click here to see project** [Predict Youtube Video Likes](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
 
 <img src="images/youtube.jpg?raw=true"/>
 
@@ -61,13 +61,32 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 <img src="images/happy.jpg?raw=true"/>
 
-**Skills used:** Python, Matplotlib, Random Forest, XGBRegressor 
+**Skills used:** Python, Matplotlib, Random Forest, XGBRegressor, Linear regression 
 
-**Project Objective:** The task of this project is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
+**Project Objective:** The taks of this project to visualize how each aspect affects the overall idea of happiness and predict raiting Score.
 
-**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos.[**87%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb).
+**Quantifiable result:** We could use regression and classification which helps us to predict the Score.[**79%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb).
 
-- Used Linear regression and XGBRegressor to predict the like to view_count ratio
+- Used Random ForestXGBRegressor and Linear regression to predict the Score of happiness
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Data Source: https://www.kaggle.com/c/kaggle-pog-series-s01e01
+- Data Source: https://www.kaggle.com/unsdsn/world-happiness
+
+
+***
+
+
+[Amazon Fine Food Analysis Using NLP](https://github.com/alesandrsokirka/amazon_nlp/blob/main/amazon.ipynb)
+
+<img src="images/amazon.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, TfidVectorizer 
+
+**Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods.
+
+**Quantifiable result:** We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is neutral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity).
+
+- Given a review, it is determined whether the review is positive or negative.
+- Used NLP for this approach.
+- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
+- Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
