@@ -145,3 +145,21 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 - Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+
+
+***
+
+
+**Click here to see project** [Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/alesandrsokirka/suicide_rate_Kaggle/blob/main/Suicide_Rates.ipynb)
+
+<img src="images/suicide.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, KNN, NB
+
+**Project Objective:** In this project we are going to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
+
+**Quantifiable result:** We could use regression, which helps us to see factors and predict suicide rate . Rusult [**94%** accuracy](https://github.com/alesandrsokirka/suicide_rate_Kaggle/blob/main/Suicide_Rates.ipynb) 
+
+- Data visualization to see correlation factors 
+- Machine learning: Linear regression Random forest, XGBooster.
+- Selected best model based on train and test performance
