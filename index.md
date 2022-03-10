@@ -4,7 +4,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb)
+**Click to see project** [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb)
 
 <img src="images/bike.jpg?raw=true"/>
 
@@ -22,7 +22,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
+**Click to see project** [Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
 
 <img src="images/customer.jpg?raw=true"/>
 
@@ -30,7 +30,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
-**Quantifiable result:** We could use clustering, which helps in understanding the natural grouping in a dataset.(https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb).
+**Quantifiable result:** We could use clustering, which helps in understanding the natural grouping in a dataset.
 
 - Initiating PCA to reduce dimentions aka features
 - Elbow Method to determine the number of clusters to be formed
