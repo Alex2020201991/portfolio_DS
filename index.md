@@ -4,7 +4,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals(https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb)
+[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb)
 
 <img src="images/bike.jpg?raw=true"/>
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
