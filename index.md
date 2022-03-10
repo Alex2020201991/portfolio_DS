@@ -4,7 +4,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[Customer Personality Analysis](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
+**Click here to see project** [Customer Personality Analysis](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
 
 <img src="images/youtube.jpg?raw=true"/>
 
@@ -19,10 +19,9 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Data Source: https://www.kaggle.com/c/kaggle-pog-series-s01e01
 
-
-**Click to see project** [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb) 
-
 ***
+
+**Click here to see project** [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb) 
 
 <img src="images/bike.jpg?raw=true"/>
 
@@ -40,7 +39,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-**Click to see project** [Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
+**Click here to see project** [Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
 
 <img src="images/customer.jpg?raw=true"/>
 
