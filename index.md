@@ -57,15 +57,15 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[Customer Personality Analysis](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
+[Customer Personality Analysis](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
 
-<img src="images/youtube.jpg?raw=true"/>
+<img src="images/happy.jpg?raw=true"/>
 
-**Skills used:** Python, Matplotlib, Linear regression, XGBRegressor 
+**Skills used:** Python, Matplotlib, Random Forest, XGBRegressor 
 
 **Project Objective:** The task of this project is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
 
-**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos.[**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb).
+**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos.[**87%** accuracy](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb).
 
 - Used Linear regression and XGBRegressor to predict the like to view_count ratio
 - The data had quite a few categorical variables which were encoded for use in the model
