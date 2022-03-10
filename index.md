@@ -4,11 +4,25 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-element {
-  font-size: 75;
-  }
+[Customer Personality Analysis](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb)
+
+<img src="images/youtube.jpg?raw=true"/>
+
+**Skills used:** Python, Matplotlib, Linear regression, XGBRegressor 
+
+**Project Objective:** The task of this project is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
+
+**Quantifiable result:** We could use regression, which helps us to predict the like to view_count ratio of youtube videos.[**87%** accuracy](https://github.com/alesandrsokirka/youtube_predictions_Kaggle/blob/main/youtube_project.ipynb).
+
+- Used Linear regression and XGBRegressor to predict the like to view_count ratio
+- The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Data Source: https://www.kaggle.com/c/kaggle-pog-series-s01e01
+
+
 **Click to see project** [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb) 
 
+***
 
 <img src="images/bike.jpg?raw=true"/>
 
