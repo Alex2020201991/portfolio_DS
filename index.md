@@ -57,7 +57,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 ***
 
-[World happiness report Analysis](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
+**Click here to see project** [World happiness report Analysis](https://github.com/alesandrsokirka/world_happiness_report_Kaggle/blob/main/World_Happiness_Report.ipynb)
 
 <img src="images/happy.jpg?raw=true"/>
 
@@ -76,7 +76,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 ***
 
 
-[Amazon Fine Food Analysis Using NLP](https://github.com/alesandrsokirka/amazon_nlp/blob/main/amazon.ipynb)
+**Click here to see project** [Amazon Fine Food Analysis Using NLP](https://github.com/alesandrsokirka/amazon_nlp/blob/main/amazon.ipynb)
 
 <img src="images/amazon.jpeg?raw=true"/>
 
@@ -95,7 +95,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 ***
 
 
-[Prediction of User Interest Using Bank Data](https://github.com/alesandrsokirka/Logistic_Regression_project_bank/blob/main/logistic__bank_portug.ipynb)
+**Click here to see project** [Prediction of User Interest Using Bank Data](https://github.com/alesandrsokirka/Logistic_Regression_project_bank/blob/main/logistic__bank_portug.ipynb)
 
 <img src="images/bank.jpg?raw=true"/>
 
