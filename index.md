@@ -90,3 +90,20 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 - Used NLP for this approach.
 - A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
 - Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
+
+
+***
+
+
+[Prediction of User Interest Using Bank Data](https://github.com/alesandrsokirka/Logistic_Regression_project_bank/blob/main/logistic__bank_portug.ipynb)
+
+<img src="images/bank.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib 
+
+**Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE.
+
+- In this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
+- The classification goal is to predict if the client will subscribe a term deposit (variable y).
