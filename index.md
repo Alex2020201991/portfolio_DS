@@ -23,18 +23,33 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 [Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
 
-<img src="images/Dog-and-Cat.jpeg?raw=true"/>
+<img src="images/customer.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
-**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+**Project Objective:** Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb).
+**Quantifiable result:** We could use clustering, which helps in understanding the natural grouping in a dataset.(https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb).
 
-- Added multiple convolution and pooling layers
-- Training model on basis of given data
-- Fitting the CNN to see if the provided image is dog or cat
+- Initiating PCA to reduce dimentions aka features
+- Elbow Method to determine the number of clusters to be formed
+- Initiating the Agglomerative Clustering model
 - Data Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
 
 
 ***
+
+[Customer Personality Analysis](https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb)
+
+<img src="images/customer.jpg?raw=true"/>
+
+**Skills used:** Python, Keras, Tensorflow
+
+**Project Objective:** Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
+
+**Quantifiable result:** We could use clustering, which helps in understanding the natural grouping in a dataset.(https://github.com/alesandrsokirka/Customer_Personality_Analysis_Kaggle/blob/main/Customer_personality.ipynb).
+
+- Initiating PCA to reduce dimentions aka features
+- Elbow Method to determine the number of clusters to be formed
+- Initiating the Agglomerative Clustering model
+- Data Source: https://www.kaggle.com/imakash3011/customer-personality-analysis
