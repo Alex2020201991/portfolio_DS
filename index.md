@@ -154,7 +154,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 <img src="images/suicide.jpg?raw=true"/>
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib, KNN, NB
+**Skills used:** Python, Pandas, Seaborn, Matplotlib, Linear Regression, XGBooster, Random Forest
 
 **Project Objective:** In this project we are going to find signals correlated to increased suicide rates among different cohorts globally, across the socio-economic spectrum.
 
