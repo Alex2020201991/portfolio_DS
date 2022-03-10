@@ -7,6 +7,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/alesandrsokirka/linear_regr_seoul_bikes/blob/main/final_linear_regr_seoul_bikes.ipynb)
 
 <img src="images/bike.jpg?raw=true"/>
+
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
@@ -25,7 +26,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 <img src="images/customer.jpg?raw=true"/>
 
-**Skills used:** Python, Keras, Tensorflow
+**Skills used:** Python, Matplotlib, PCA, Elbow Method
 
 **Project Objective:** Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 
