@@ -103,7 +103,27 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** In this project you will be provided with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE.
+**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Got [**79%** accuracy]
 
 - In this project we are given real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.
 - The classification goal is to predict if the client will subscribe a term deposit (variable y).
+
+
+***
+
+
+**Click here to see project** [Predicting Employee Attrition](https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
+
+<img src="images/employee.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, Label Encoder, Quantile, NearMiss, Random Forest, Confusion Matirx
+
+**Project Objective:** Our goal is to predict whether the employees leave the company or not.
+
+**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Got [**76%** accuracy(https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb) 
+
+- LabelEncoder to handle categorical variables,
+- Quantile to normalize data by divide dataset into groups,
+- NearMiss to handle imbalanced data,
+- Machine learning part (Data validation, Random Forest classification algorithm, Confusion matrix..
+- Data Source: https://www.kaggle.com/pavan9065/predicting-employee-attrition
