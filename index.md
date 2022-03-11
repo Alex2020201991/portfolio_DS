@@ -120,7 +120,7 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 
 **Project Objective:** Our goal is to predict whether the employees leave the company or not.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in 86% accuracy using Logistic Regression and SMOTE. Result [**76%** accuracy](https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
+**Quantifiable result:** We could Classify the type of tumor using Logistic Regression and SMOTE. Result [**76%** accuracy](https://github.com/alesandrsokirka/employee_attrition_prediction/blob/main/employee.ipynb)
 
 - LabelEncoder to handle categorical variables,
 - Quantile to normalize data by divide dataset into groups,
@@ -163,3 +163,21 @@ Here are some of my Data Science Projects. I have explored various machine-learn
 - Data visualization to see correlation factors 
 - Machine learning: Linear regression Random forest, XGBooster.
 - Selected best model based on train and test performance
+
+
+***
+
+
+**Click here to see project** [Identifying fraudulent transactions](https://github.com/alesandrsokirka/tree_ensemble_fraud_detection/blob/main/fraud_detection.ipynb)
+
+<img src="images/fraud.jpg?raw=true"/>
+
+**Skills used:** Python, Pandas, Matplotlib, Random Forest, GradientBoost Classifier, Bagging Classifier Algorithm
+
+**Project Objective:**  In this project we are going to solve chinese bank problem of identifying fraudulent transactions in their customer's account.
+
+**Quantifiable result:** We could Clissify, which helps to resist being frauded . Result [**92%** accuracy](https://github.com/alesandrsokirka/tree_ensemble_fraud_detection/blob/main/fraud_detection.ipynb) 
+
+- Data visualization to see correlation factors 
+- Machine learning: Random Forest, GradientBoost Classifier, Bagging Classifier Algorithm
+
