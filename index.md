@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Here are some of my Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
+Here !!!!!!!!!!!!!!!!!are some of my Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
 ***
 
